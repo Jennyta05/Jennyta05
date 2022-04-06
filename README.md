@@ -4,17 +4,18 @@
 
  *** 
  
- <h2 align="center">Design</h2>
+ <h2 align="center">Design <img width="64px" src="https://user-images.githubusercontent.com/95040405/161879829-ceebae78-2ed7-473d-a7de-67216b52d391.gif"></h2> 
  
 <p align="center">
 
  <img src="https://user-images.githubusercontent.com/95040405/161875063-3c724470-b7f5-4863-9032-8cf24964d077.png">
  <img src="https://user-images.githubusercontent.com/95040405/161875623-89ca45af-58b0-4995-b72d-f4efa6a8140f.png">
 
+  
  </p>
 
 ***
-<h2 align="center">Web design</h2>
+<h2 align="center">Web design <img width="64px" src="https://user-images.githubusercontent.com/95040405/161880494-ae1000cb-8133-4787-8b76-6a4343102ecc.gif"></h2>
  
 <p align="center">
 
@@ -26,5 +27,7 @@
  
  </p>
  
- ***
+
+
       
+
